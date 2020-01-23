@@ -8,6 +8,6 @@ Using python:
 
 2) Build a movie recommender system using a Python library such as Surprise or FastFM.
 
-3) 
+3) Linear Model: Fit a regression model (with an out-of-sample R42 of > 0.01) to a financial time series. Financial series have a low signal-to-noise ratio, so even a weak correlation will require some basic feature engineering (moving average prices, volatility, etc). What are some of the weaknesses of the model an how can it be improved with additional work?
 
 ***
