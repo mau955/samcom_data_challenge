@@ -10,4 +10,8 @@ Using python:
 
 3) Linear Model: Fit a regression model (with an out-of-sample R42 of > 0.01) to a financial time series. Financial series have a low signal-to-noise ratio, so even a weak correlation will require some basic feature engineering (moving average prices, volatility, etc). What are some of the weaknesses of the model an how can it be improved with additional work?
 
+    Sometimes, the past of the the time-series is not enough to predict the future. 
+    
+    Multiple additional features should be taken into account to get good forecasts.
+
 ***
